@@ -1,0 +1,91 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.register {
+  display: flex;
+}
+.form {
+  width: 68vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+}
+.create {
+  font-family: DM Sans;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 58px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.your {
+  font-family: DM Sans;
+  font-size: 21px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.imgDiv {
+  width: 34vw;
+  height: 100vh;
+  object-fit: cover;
+}
+.userImg {
+  height: 100vh;
+}
+.forms {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.input {
+  width: 599px;
+  height: 64px;
+  border-radius: 5px;
+  border: 2px solid #c2c2c2;
+  font-family: DM Sans;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: 0em;
+  padding-left: 10px;
+}
+.btnSub {
+  width: 277px;
+  height: 63.92px;
+  border-radius: 5px;
+  font-family: DM Sans;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0em;
+  text-align: center;
+  background-color: #ed5353;
+  color: #ffffff;
+  border: none;
+}
+.inputCheck {
+  width: 21px;
+  height: 21px;
+}
+.checkpara {
+  font-family: DM Sans;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: #525252;
+}
+.checkdiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}

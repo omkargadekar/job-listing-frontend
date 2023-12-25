@@ -1,0 +1,149 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.register {
+  display: flex;
+}
+.form {
+  width: 60vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+}
+.create {
+  font-family: DM Sans;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 58px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.your {
+  font-family: DM Sans;
+  font-size: 21px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.imgDiv {
+  width: 40vw;
+  height: 100vh;
+  object-fit: cover;
+}
+.userImg {
+  height: 100vh;
+  width: 100%;
+}
+.forms {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.inputLable {
+  font-family: DM Sans;
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  gap: 15px;
+}
+.jobparalable {
+  position: relative;
+  right: 270px;
+  text-align: left;
+}
+.inputt {
+  width: 438.23px;
+  height: 38.67px;
+  border-radius: 4.6px;
+  border: 1.84px;
+  color: linear-gradient(0deg, #c2c2c2, #c2c2c2),
+    linear-gradient(0deg, #ffffff, #ffffff);
+  border: 1.84px solid #c2c2c2;
+  position: absolute;
+  left: 350px;
+}
+.btnSub {
+  width: 277px;
+  height: 63.92px;
+  border-radius: 5px;
+  font-family: DM Sans;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0em;
+  text-align: center;
+  background-color: #ed5353;
+  color: #ffffff;
+  border: none;
+}
+.inputCheck {
+  width: 21px;
+  height: 21px;
+}
+.checkpara {
+  font-family: DM Sans;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: #525252;
+}
+.checkdiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+.inputbtn {
+  width: 146.79px;
+  height: 42.66px;
+  border-radius: 6.51px;
+  border: 0.85px solid #cecece;
+  color: linear-gradient(0deg, #cecece, #cecece),
+    linear-gradient(0deg, #ffffff, #ffffff);
+  background-color: transparent;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.btndivdiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  position: relative;
+  top: 35px;
+  left: 245px;
+}
+
+.inputbtnn {
+  width: 146.79px;
+  height: 42.66px;
+  border-radius: 6.51px;
+  background-color: #ed5353;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #ffffff;
+  border: none;
+}

@@ -1,0 +1,226 @@
+.det__nav {
+  width: 100vw;
+  height: 139px;
+  border-radius: 0%, 30%;
+  background-color: #ed5353;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.det__logo {
+  font-family: DM Sans;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 43px;
+  letter-spacing: 0em;
+  text-align: center;
+  padding-left: 15px;
+}
+.det__btnDiv {
+  padding-right: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+.det__login {
+  width: 113px;
+  height: 46px;
+  border-radius: 7px;
+  border: 2px solid white;
+  background-color: transparent;
+  font-family: DM Sans;
+  font-size: 23px;
+  font-weight: 500;
+  line-height: 33px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: white;
+}
+.det__register {
+  width: 113px;
+  height: 46px;
+  border-radius: 7px;
+  background-color: white;
+  color: #ed5353;
+  font-family: DM Sans;
+  font-size: 23px;
+  font-weight: 500;
+  line-height: 33px;
+  letter-spacing: 0em;
+  text-align: center;
+  border: none;
+}
+.det__mainn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 40px;
+}
+.det__head {
+  width: 1099px;
+  height: 147px;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 23px 2px #0000001a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.det__headh {
+  font-family: DM Sans;
+  font-size: 29px;
+  font-weight: 500;
+  line-height: 42px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.det__div {
+  width: 90%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  padding-left: 100px;
+  padding-top: 70px;
+  gap: 45px;
+}
+.det__week {
+  font-family: DM Sans;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: 0em;
+  color: #999999;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 15px;
+  padding-left: 15px;
+}
+.det__headDiv {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+}
+.det__headd {
+  font-family: DM Sans;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 69px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.det__location {
+  font-family: DM Sans;
+  font-size: 21px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #ed5353;
+}
+.det__divv {
+  width: 1099px;
+  background-color: #ffffff;
+  box-shadow: 0px 2px 35px 1px #0000001a;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  gap: 50px;
+}
+.det__stipendDivDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+}
+.det__stipendDiv,
+.det__durDiv {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  gap: 15px;
+}
+.det__stipend,
+.det__duration {
+  font-family: DM Sans;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #999999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+.det__stipendDur,
+.det__durationMon {
+  font-family: DM Sans;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #595959;
+}
+.det__wholeDiv {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  gap: 35px;
+}
+.det__aboutCom {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+}
+.det__about {
+  font-family: DM Sans;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 41px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+}
+
+.det__aboutPara {
+  font-family: DM Sans;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 39px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #595959;
+}
+.det__skillsDiv {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 5px;
+}
+.det__css {
+  width: 100px;
+  height: 39px;
+  border-radius: 21px;
+  background-color: #ffeeee;
+  font-family: DM Sans;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 41px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #595959;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
